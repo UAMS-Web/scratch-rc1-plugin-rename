@@ -1,5 +1,5 @@
 <?php
 /**
  * Plugin Name: Scratch RC1 Rename
- * Version: 3.1.0
+ * Version: 3.2.0
  */
